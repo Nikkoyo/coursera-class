@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![coursera-class/14695557_10207553246650601_2835398207650027903_n.jpg](src)
+[Link](url) and ![http://coursera-class/14695557_10207553246650601_2835398207650027903_n.jpg](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
